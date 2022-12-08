@@ -173,6 +173,7 @@ button{
   border-color: none;
   margin-right: 10px;
   margin-left: 10px;
+  margin-bottom: 10px;
 }
 .send{
     color:#DAF1FF;
