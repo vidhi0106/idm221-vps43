@@ -171,6 +171,8 @@ button{
   float: right;
   border-radius: 8px;
   border-color: none;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .send{
     color:#DAF1FF;
