@@ -294,3 +294,20 @@ img{
     margin-left: 10px;
 }
 
+.button{
+  color:#DAF1FF;
+  background-color: #137BC7;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  float: right;
+  border-radius: 8px;
+  border-color: none;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+
+}
+
