@@ -184,6 +184,7 @@ button{
     float: right;
     border-radius: 8px;
     border-color: none;
+    margin-right: 10px;
   }
 button:hover{
     color:#DAF1FF;
