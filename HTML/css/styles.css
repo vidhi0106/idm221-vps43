@@ -112,7 +112,7 @@ footer{
     background-color: #DAF1FF;
     padding: 10px; 
     border-radius: 18px 18px 0px 0px;
-    margin-top: 30px;
+    margin-top: 70px;
     display: flex;
     flex-direction: row;
     flex-wrap:nowrap;
@@ -170,7 +170,8 @@ button{
   text-align: center;
   float: right;
   border-radius: 8px;
-  border-color: none;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .send{
     color:#DAF1FF;
@@ -183,7 +184,6 @@ button{
     text-align: center;
     float: right;
     border-radius: 8px;
-    border-color: none;
   }
 button:hover{
     color:#DAF1FF;
@@ -289,5 +289,27 @@ img{
 }
 .topic{
     margin-left: 10px;
+}
+
+
+.next{
+    display: flex;
+    justify-content: flex-end;
+    color:#DAF1FF;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    border: solid 2.5px #137BC7;
+}
+
+.video{
+    width:100%;
+    border-radius: 8px;
 }
 

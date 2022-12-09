@@ -170,7 +170,6 @@ button{
   text-align: center;
   float: right;
   border-radius: 8px;
-  border-color: none;
   margin-right: 10px;
   margin-left: 10px;
 }
@@ -185,7 +184,6 @@ button{
     text-align: center;
     float: right;
     border-radius: 8px;
-    border-color: none;
   }
 button:hover{
     color:#DAF1FF;
@@ -303,7 +301,6 @@ img{
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 8px;
-    border-color: none;
     margin-right: 10px;
     margin-left: 10px;
     text-decoration: none;
