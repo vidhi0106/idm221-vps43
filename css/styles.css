@@ -303,12 +303,11 @@ img{
   border-radius: 8px;
   border-color: none;
   margin-right: 10px;
-  margin-left: 10px;
+  margin-left: auto;
   margin-bottom: 30px;
   text-decoration: none;
   border: solid #137BC7 2.5px;
   font-weight: bold;
-  text-align: right;
 
 
 }
