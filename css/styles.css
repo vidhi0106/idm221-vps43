@@ -295,12 +295,10 @@ img{
 
 
 .next{
-  display: block;
   padding-left: 16px;
   padding-right: 16px;
   padding-top: 7px;
   padding-bottom: 7px;
-  float: right;
   border-radius: 8px;
   border-color: none;
   margin-right: 10px;
