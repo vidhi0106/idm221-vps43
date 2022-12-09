@@ -297,14 +297,13 @@ img{
 .next{
   padding-left: 16px;
   padding-right: 16px;
-  padding-top: 7px;
-  padding-bottom: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   border-radius: 8px;
   border-color: none;
   margin-right: 10px;
   margin-left: 10px;
   margin-bottom: 30px;
-  margin-top: 10px;
   text-decoration: none;
   border: solid #137BC7 2.5px;
   font-weight: bold;
