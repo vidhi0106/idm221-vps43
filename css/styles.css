@@ -295,19 +295,11 @@ img{
 
 
 .next{
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-radius: 8px;
-  border-color: none;
-  margin-right: 10px;
-  margin-left: 10px;
-  margin-bottom: 30px;
-  text-decoration: none;
-  border: solid #137BC7 2.5px;
-  font-weight: bold;
-
-
+    display: flex;
+    justify-content: flex-end;
+    background-color:#DAF1FF;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
 }
 
