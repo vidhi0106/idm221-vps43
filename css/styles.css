@@ -299,12 +299,13 @@ img{
   padding-right: 16px;
   padding-top: 7px;
   padding-bottom: 7px;
-  text-align: end;
+  text-align: right;
   border-radius: 8px;
   border-color: none;
   margin-right: 10px;
   margin-left: 10px;
   margin-bottom: 30px;
+  margin-top: 10px;
   text-decoration: none;
   border: solid #137BC7 2.5px;
   font-weight: bold;
