@@ -295,8 +295,6 @@ img{
 
 
 .next{
-  color:#DAF1FF;
-  background-color: #137BC7;
   padding-left: 13px;
   padding-right: 13px;
   padding-top: 5px;
@@ -307,6 +305,9 @@ img{
   margin-right: 10px;
   margin-left: 10px;
   margin-bottom: 30px;
+  text-decoration: none;
+  border: solid #137BC7 1px;
+
 
 }
 
